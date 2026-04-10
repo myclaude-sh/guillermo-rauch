@@ -1,27 +1,19 @@
-# Guillermo Rauch
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/guillermo-rauch)
-
-Developer Experience architect — applies DX-first thinking and AX (AI Experience) paradigm to product decisions
-
-| | |
-|---|---|
-| **Category** | minds |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $49.90 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/guillermo-rauch) to install.
-
-```bash
-# After purchase:
-myclaude install guillermo-rauch
-```
-
-## About
+---
+name: guillermo-rauch
+display_name: Guillermo Rauch
+description: Developer Experience architect — applies DX-first thinking and AX (AI Experience) paradigm to product decisions
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "developer-experience"
+  - "frontend"
+  - "nextjs"
+  - "minds"
+  - "cognitive"
+  - "ai-ux"
+marketplace_url: "https://myclaude.sh/p/guillermo-rauch"
+---
 
 # Guillermo Rauch Mind
 
@@ -73,13 +65,3 @@ MIT
 
 ![MCS-1](https://myclaude.sh/badge/mcs/1.svg) ![Available](https://myclaude.sh/badge/available.svg)
 
-
-## Tags
-
-`developer-experience` `frontend` `nextjs` `minds` `cognitive` `ai-ux`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/guillermo-rauch) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*

@@ -1,0 +1,14 @@
+name: guillermo-rauch
+version: 1.0.0
+type: minds
+description: Developer Experience architect — applies DX-first thinking and AX (AI Experience) paradigm to product decisions
+price: 49.9
+license: MIT
+entry: SKILL.md
+tags:
+  - developer-experience
+  - frontend
+  - nextjs
+  - minds
+  - cognitive
+  - ai-ux
